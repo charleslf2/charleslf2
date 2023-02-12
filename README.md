@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @charleslf2
-- 👀 I'm building AI and video game
+- 👀 I'm building AI 
 
 <!---
 charleslf2/charleslf2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
